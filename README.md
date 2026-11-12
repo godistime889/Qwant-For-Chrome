@@ -218,4 +218,4 @@ Qwant for Chrome is the full free version, providing all features and updates in
 Start enjoying private and secure browsing with Qwant for Chrome — **download now!**
 
 ---
-**Last updated:** 2026-11-11 18:28:28 UTC
+**Last updated:** 2026-11-12 01:23:17 UTC
